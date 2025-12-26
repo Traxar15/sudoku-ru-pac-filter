@@ -11,14 +11,19 @@
 
 # Добавление фильтра на клиент из основного репозитория
 После скачивания архива, редактируем файл конфигурации клиента (config.json). По умолчанию там добавлены сайты для пользователей из Китая, поэтому меняем скрипт следующим образом:
-![win](https://github.com/user-attachments/assets/4ce61530-ea6b-4996-a63a-547b30f231ef)
+```json
+  "rule_urls": [
+    "https://raw.githubusercontent.com/Traxar15/sudoku-ru-pac-filter/main/ru-sites.yaml"
+  ]
+
+```
 
 # Добавление фильтра на клиент Sudodroid
 Установив приложение и добавив новый сервер, заходим в раздел "Proxy Mode" и вставляем ссылку:
 ![sudodroid](https://github.com/user-attachments/assets/ad521424-6384-4e93-aa96-4e51df57f600)
 
 # Добавление фильтра для Clash Meta
-В основной конфиг добавляем правила для маршрутизации:
+В основной конфиг клиента добавляем правила для маршрутизации:
 ```yaml
 proxy-groups:
   - name: PROXY
