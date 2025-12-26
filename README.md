@@ -51,7 +51,7 @@ rules:
 Выбираем: -> "Серверы" -> "Добавить сервер пользовательской конфигурации" -> ядро "mihomo":
 <img width="1040" height="340" alt="image" src="https://github.com/user-attachments/assets/6a5d2c98-5967-4c27-94c4-f76984f08ed6" />
 Далее: -> "Просмотр" -> Добавляем рабочий конфиг для клиента Clash Meta
-![1](https://github.com/user-attachments/assets/673a07f0-70d0-44aa-bbb5-a1eb5f01e1f6)
+<img width="788" height="184" alt="image" src="https://github.com/user-attachments/assets/8d7bdc11-932f-4644-b31f-c2d9261fc622" />
 
 # Проверка фильтра
 В запрет на проксирование специально добавлена сеть [2ip.ru](https://2ip.ru/), то есть при проверке у них ip-адреса должен быть показан ip-адрес вашего провайдера, а не сервера, на котором работает ядро sudoku.
