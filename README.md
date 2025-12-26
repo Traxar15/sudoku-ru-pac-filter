@@ -50,7 +50,7 @@ rules:
 # Добавление фильтра в v2rayN
 Выбираем: -> "Серверы" -> "Добавить сервер пользовательской конфигурации" -> ядро "mihomo":
 <img width="1040" height="340" alt="image" src="https://github.com/user-attachments/assets/6a5d2c98-5967-4c27-94c4-f76984f08ed6" />
-Далее: -> "Просмотр" -> Добавляем рабочий конфиг для клиента Clash Meta
+Далее: -> "Просмотр" -> Добавляем рабочий конфиг для клиента Clash Meta:
 <img width="788" height="184" alt="image" src="https://github.com/user-attachments/assets/8d7bdc11-932f-4644-b31f-c2d9261fc622" />
 
 # Проверка фильтра
