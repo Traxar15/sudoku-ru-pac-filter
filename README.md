@@ -1,8 +1,9 @@
 # Sudoku-ru-pac-filter
 Для использования должны быть установлены следующие компоненты:<br>
-На сервере ядро sudoku ([скрипт быстрой установки](https://github.com/SUDOKU-ASCII/easy-install)), клиент под андроид ([sudodroid](https://github.com/SUDOKU-ASCII/sudoku-android));<br>
-Клиент под другие платформы из основного репозитория - [SUDOKU-ASCII](https://github.com/SUDOKU-ASCII/sudoku).<br>
-Добавлена поддержка [Clash Meta](https://github.com/MetaCubeX/ClashMetaForAndroid).
+➤ На сервере ядро sudoku ([скрипт быстрой установки](https://github.com/SUDOKU-ASCII/easy-install)).<br>
+➤ Клиент под андроид ([sudodroid](https://github.com/SUDOKU-ASCII/sudoku-android)).<br>
+➤ Клиент под другие платформы из основного репозитория - [SUDOKU-ASCII](https://github.com/SUDOKU-ASCII/sudoku).<br>
+➤ Добавлена поддержка [Clash Meta](https://github.com/MetaCubeX/ClashMetaForAndroid).
 
 # Pac-фильтр
 Ссылка:
