@@ -3,7 +3,7 @@
 ➤ На сервере ядро sudoku ([скрипт быстрой установки](https://github.com/SUDOKU-ASCII/easy-install)).<br>
 ➤ Клиент под андроид ([sudodroid](https://github.com/SUDOKU-ASCII/sudoku-android)).<br>
 ➤ Клиент под другие платформы из основного репозитория - [SUDOKU-ASCII](https://github.com/SUDOKU-ASCII/sudoku).<br>
-➤ Добавлена поддержка [Clash Meta](https://github.com/MetaCubeX/ClashMetaForAndroid).
+➤ Добавлена поддержка [Clash Meta](https://github.com/MetaCubeX/ClashMetaForAndroid) и [v2rayN](https://github.com/2dust/v2rayN) (mihomo ядро).
 
 # Pac-фильтр
 Ссылка:
@@ -47,6 +47,11 @@ rules:
   - MATCH,PROXY 
 
 ```
+# Добавление фильтра в v2rayN
+Выбираем: -> "Серверы" -> "Добавить сервер пользовательской конфигурации" -> ядро "mihomo":
+<img width="1040" height="340" alt="image" src="https://github.com/user-attachments/assets/6a5d2c98-5967-4c27-94c4-f76984f08ed6" />
+Далее: -> "Просмотр" -> Добавляем рабочий конфиг для клиента Clash Meta
+![1](https://github.com/user-attachments/assets/673a07f0-70d0-44aa-bbb5-a1eb5f01e1f6)
 
 # Проверка фильтра
 В запрет на проксирование специально добавлена сеть [2ip.ru](https://2ip.ru/), то есть при проверке у них ip-адреса должен быть показан ip-адрес вашего провайдера, а не сервера, на котором работает ядро sudoku.
